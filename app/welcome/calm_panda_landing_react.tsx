@@ -227,7 +227,6 @@ export default function CalmPandaLanding() {
               </div>
             </div>
           </div>
-
           <div className="relative">
             <div className="rounded-[2rem] bg-white/80 p-4 shadow-2xl ring-1 ring-sky-100 backdrop-blur">
               <img
