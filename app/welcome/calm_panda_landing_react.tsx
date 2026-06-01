@@ -212,7 +212,6 @@ export default function CalmPandaLanding() {
                 Где доступен сервис
               </CTAButton>
             </div>
-
             <div className="mt-8 grid gap-3 sm:grid-cols-2">
               <div className="rounded-3xl bg-white/80 p-4 shadow-sm ring-1 ring-sky-100">
                 <div className="font-bold text-slate-900">Telegram</div>
